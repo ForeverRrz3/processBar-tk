@@ -15,4 +15,4 @@ class CpuBar:
 
     def ram_usage(self):
         return pt.virtual_memory()
-
+        
